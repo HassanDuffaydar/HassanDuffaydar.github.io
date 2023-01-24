@@ -20,7 +20,7 @@
     </ul>
     <h2>Skills</h2>
     <ul>
-      <li>[Your skills]</li>
+      <li>[skills]</li>
     </ul>
     <h2>Contact Me</h2>
     <p>You can contact me at duffay14@gmail.com </p>
