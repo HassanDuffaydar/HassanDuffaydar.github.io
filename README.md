@@ -11,7 +11,8 @@
     <ul>
       <li>BSc in Actuarial Science, LSE , 2024</li>
     </ul>
-    <h2>Work Experience</h2>
+    <h2>Projects</h2>
+    <p>Pirates - https://github.com/HahaD14/Shipping-Pirate-Attacks</p>
     <ul>
       <li>
         <h3>[Job Title], [Company], [Employment Dates]</h3>
