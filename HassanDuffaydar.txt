@@ -5,7 +5,7 @@
   <body>
     <h1>About Me</h1>
     <img src="profile-picture.jpg" alt="Profile Picture">
-    <p>Hi, my name is Hassan Duffaydar. I am a student at the London School of Economcis. I am passionate about Statistics and machine learning.</p>
+    <p>Hi, my name is Hassan Duffaydar. I am a student at the London School of Economics. I am passionate about Statistics and machine learning.</p>
     <h2>Education</h2>
     <ul>
       <li>[Degree] in [Field of study], [University], [Graduation year]</li>
