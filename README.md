@@ -1,7 +1,7 @@
-# HahaD14.github.io
+# Hassan Duffaydar
 <html>
   <head>
-    <title>About Me</title>
+    <title>Hassan Duffaydar</title>
   </head>
   <body>
     <h1>About Me</h1>
