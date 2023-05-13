@@ -22,6 +22,6 @@
       <li>[Your skills]</li>
     </ul>
     <h2>Contact Me</h2>
-    <p>You can contact me at [Your email] or via my social media profile on [Your social media links].</p>
+    <p>You can contact me at duffay14@gmail.com or via my social media profile on [Your social media links].</p>
   </body>
 </html>
