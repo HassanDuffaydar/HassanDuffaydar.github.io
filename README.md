@@ -1,5 +1,5 @@
 # Hassan Duffaydar
-<link rel="icon" href="/path/to/favicon.ico">
+<link rel="icon" href="favicon.ico">
 <html>
   <head>
     <title>Hassan Duffaydar</title>
