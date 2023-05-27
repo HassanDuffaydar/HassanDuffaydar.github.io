@@ -47,7 +47,7 @@
             border-radius: 50%;
             background-color: #ddd;
             /* Replace with your profile picture */
-            background-image: url('path/to/profile-picture.jpg');
+            background-image: url('images/profilepic.jpeg');
             background-size: cover;
             background-position: center;
         }
