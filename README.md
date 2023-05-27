@@ -42,8 +42,8 @@
         }
 
         .profile-picture {
-            width: 120px;
-            height: 120px;
+            width: 320px;
+            height: 320px;
             border-radius: 50%;
             background-color: #ddd;
             /* Replace with your profile picture */
