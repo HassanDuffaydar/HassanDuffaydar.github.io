@@ -14,7 +14,7 @@
         }
 
         body {
-            background-color: #30605a;
+            background-color: #0d2623;
             color: #333;
             font-family: Arial, sans-serif;
             margin: 0;
