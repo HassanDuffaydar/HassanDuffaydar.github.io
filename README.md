@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
-    <link rel="icon" type="image/png" href="path/to/favicon.png">
+    <link rel="icon" type="image/png" href="images/logo.png">
     <style>
         /* Global Styles */
         * {
@@ -14,7 +14,7 @@
         }
 
         body {
-            background-color: #0d2623;
+            background-color: #008080;
             color: #333;
             font-family: Arial, sans-serif;
             margin: 0;
