@@ -233,7 +233,7 @@
 <body>
     <div class="container">
         <header>
-            <h1><img src="path/to/logo.png" alt="Logo" style="height: 40px;"></h1>
+            <h1><img src="images/logo.png" alt="Logo" style="height: 40px;"></h1>
             <div class="profile-picture"></div>
         </header>
 
@@ -250,8 +250,7 @@
             <div class="section-content">
                 <div class="left-column">
                     <h3>University Degree</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit vel nibh efficitur
-                        tincidunt. In hac habitasse platea dictumst.</p>
+                    <p>LSE 2024 BSc Actuarial Science</p>
                 </div>
                 <div class="right-column">
                     <img src="path/to/education-image.jpg" alt="Education Image">
