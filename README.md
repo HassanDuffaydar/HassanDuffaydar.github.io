@@ -9,8 +9,20 @@
     }
   </style>
 </head>
-<body>
-  <head>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="icon" type="image/png" href="path/to/favicon.png">
+    <style>
+        /* Global Styles */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
         body {
             background-color: #008080;
             color: #333;
