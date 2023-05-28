@@ -9,7 +9,8 @@
     }
   </style>
 </head>
-
+<body>
+  <head>
         body {
             background-color: #008080;
             color: #333;
