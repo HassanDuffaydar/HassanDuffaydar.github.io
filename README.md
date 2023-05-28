@@ -233,7 +233,7 @@
 <body>
     <div class="container">
         <header>
-            <h1><img src="images/logo.png" alt="Logo" style="height: 40px;"></h1>
+            <h1><img src="images/logo.png" alt="Logo" style="height: 100px;"></h1>
             <div class="profile-picture"></div>
         </header>
 
