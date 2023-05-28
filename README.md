@@ -1,4 +1,14 @@
 # Hassan Duffaydar
+<html>
+<head>
+  <style>
+    body {
+      background-image: url("images/image.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  </style>
+</head>
 
         body {
             background-color: #008080;
