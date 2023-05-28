@@ -1,17 +1,4 @@
 # Hassan Duffaydar
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="icon" type="image/png" href="images/logo.png">
-    <style>
-        /* Global Styles */
-        * {
-            box-sizing: border-box;
-        }
 
         body {
             background-color: #008080;
@@ -231,11 +218,7 @@
 </head>
 
 <body>
-    <div class="container">
-        <header>
-            <h1><img src="images/logo.png" alt="Logo" style="height: 100px;"></h1>
-            <div class="profile-picture"></div>
-        </header>
+   
 
         <nav>
             <ul>
