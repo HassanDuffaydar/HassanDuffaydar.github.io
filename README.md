@@ -56,7 +56,6 @@
             height: 320px;
             border-radius: 50%;
             background-color: #ddd;
-            /* Replace with your profile picture */
             background-image: url('images/profilepic.jpg');
             background-size: cover;
             background-position: center;
