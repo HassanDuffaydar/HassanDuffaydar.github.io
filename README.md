@@ -20,6 +20,10 @@
 <div class="profile-picture">
   <img src="images/profilepic.jpg" alt="Profile Picture">
 </div>
+<div class="image-container">
+  <img src="image/profilepic.jpg" alt="Profile Picture">
+</div>
+
 
 
 <body>
