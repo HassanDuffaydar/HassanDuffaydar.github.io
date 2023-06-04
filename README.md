@@ -146,11 +146,11 @@
       </div>
     </section>
 
-    <!-- ***** Clients ***** -->
+    <!-- ***** Teaching ***** -->
 
     <section class="client" id="clients">
       <div class="row">
-        <h2>Clients</h2>
+        <h2>Teaching</h2>
         <div class="client__logos">
           <!-- Add logos of the clients or companies you'have worked with. -->
           <img src="./images/ronjones.png" class="client__logo" alt="Company 2" />
