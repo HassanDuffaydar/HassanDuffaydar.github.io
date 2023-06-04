@@ -16,6 +16,11 @@
   <meta name="keywords" content="Hassan Duffaydar, statistics, data science, lse , mauritius, duffaydar" />
   <link rel="stylesheet" href="index.css" />
 </head>
+  
+<div class="profile-picture">
+  <img src="images/profilepic.jpg" alt="Profile Picture">
+</div>
+
 
 <body>
 
