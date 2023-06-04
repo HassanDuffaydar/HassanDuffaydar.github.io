@@ -35,6 +35,17 @@
   object-fit: cover;
 }
 
+.image-container {
+  position: relative;
+}
+
+.image-container img {
+  position: absolute;
+  top: 50px; /* Adjust the top position value as needed */
+  left: 20px; /* Adjust the left position value as needed */
+}
+
+
 
 :root {
     --font-size-small: 1.8rem;
