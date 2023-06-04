@@ -1,272 +1,260 @@
-# Hassan Duffaydar
-<html>
-<head>
-  <style>
-    body {
-      background-image: url("images/image.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
-    }
-  </style>
-</head>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="icon" type="image/png" href="path/to/favicon.png">
-    <style>
-        /* Global Styles */
-        * {
-            box-sizing: border-box;
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" type="image/png" href="./images/favicon.png" />
 
-        body {
-        body {
-            background-color: #008080;
-            color: #333;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            overflow-x: hidden;
-        }
+  <!-- Put your site title here -->
+  <title>
+    Hassan Duffaydar | Statistics and Data Science.
+  </title>
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px;
-        }
-
-        /* Header */
-        header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 60px;
-        }
-
-        header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
-
-        .profile-picture {
-            width: 320px;
-            height: 320px;
-            border-radius: 50%;
-            background-color: #ddd;
-            background-image: url('images/profilepic.jpg');
-            background-size: cover;
-            background-position: center;
-        }
-
-        /* Navigation */
-        nav ul {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 60px;
-        }
-
-        nav ul li {
-            margin-right: 40px;
-        }
-
-        nav ul li a {
-            text-decoration: none;
-            color: #333;
-            font-weight: bold;
-            font-size: 20px;
-            transition: color 0.3s ease-in-out;
-        }
-
-        nav ul li a:hover {
-            color: #ff7f50;
-        }
-
-        /* Sections */
-        section {
-            margin-bottom: 80px;
-            padding-top: 80px;
-            position: relative;
-        }
-
-        .section-heading {
-            margin-bottom: 40px;
-            font-size: 32px;
-            text-transform: uppercase;
-        }
-
-        .section-content {
-            display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-            justify-content: space-between;
-        }
-
-        .section-content .left-column {
-            flex: 1;
-            max-width: 50%;
-        }
-
-        .section-content .right-column {
-            flex: 1;
-            max-width: 40%;
-            margin-top: 40px;
-        }
-
-        .section-content img {
-            max-width: 100%;
-            border-radius: 4px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        }
-
-        .section-content p {
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
-
-        /* Contact Form */
-        .contact-form {
-            max-width: 500px;
-            margin: 0 auto;
-            text-align: center;
-            position: relative;
-        }
-
-        .contact-form input,
-        .contact-form textarea {
-            width: 100%;
-            padding: 10px;
-            margin-bottom: 20px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            font-size: 16px;
-        }
-
-        .contact-form button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #ff7f50;
-            color: #fff;
-            border: none;
-            border-radius: 4px;
-            font-size: 16px;
-            cursor: pointer;
-            transition: background-color 0.3s ease-in-out;
-        }
-
-        .contact-form button:hover {
-            background-color: #ff6347;
-        }
-
-        .success-message {
-            display: none;
-            color: green;
-            font-weight: bold;
-            position: absolute;
-            bottom: -30px;
-            left: 50%;
-            transform: translateX(-50%);
-        }
-
-        /* Social Links */
-        .social-links {
-            text-align: center;
-            margin-top: 60px;
-        }
-
-        .social-links a {
-            display: inline-block;
-            margin: 0 10px;
-            text-decoration: none;
-            color: #333;
-            background-color: #eee;
-            padding: 12px 20px;
-            border-radius: 4px;
-            transition: transform 0.3s ease-in-out;
-        }
-
-        .social-links a:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        }
-
-        /* Animations */
-        @keyframes fade-in {
-            0% {
-                opacity: 0;
-            }
-
-            100% {
-                opacity: 1;
-            }
-        }
-
-        @keyframes slide-up {
-            0% {
-                transform: translateY(50px);
-                opacity: 0;
-            }
-
-            100% {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
-
-        @keyframes slide-down {
-            0% {
-                transform: translateY(-50px);
-                opacity: 0;
-            }
-
-            100% {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
-
-        @keyframes rotate {
-            0% {
-                transform: rotate(0);
-            }
-
-            100% {
-                transform: rotate(360deg);
-            }
-        }
-    </style>
+  <meta name="description" content="Add small description of yourslef.">
+  <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
+  <meta name="keywords" content="Hassan Duffaydar, statistics, data science, lse , mauritius, duffaydar" />
+  <link rel="stylesheet" href="index.css" />
 </head>
 
 <body>
-   
 
-        <nav>
-            <ul>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#about">About Me</a></li>
-            </ul>
-        </nav>
+  <!-- ***** Header ***** -->
 
-        <section id="education">
-            <h2 class="section-heading">Education</h2>
-            <div class="section-content">
-                <div class="left-column">
-                    <h3>University Degree</h3>
-                    <p>LSE 2024 BSc Actuarial Science</p>
-                </div>
-                <div class="right-column">
-                    <img src="path/to/education-image.jpg" alt="Education Image">
-                </div>
+  <header class="header" role="banner" id="top">
+    <div class="row">
+      <nav class="nav" role="navigation">
+        <ul class="nav__items">
+          <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
+          <li class="nav__item"><a href="#clients" class="nav__link">Clients</a></li>
+          <li class="nav__item">
+            <a href="#about" class="nav__link">About</a>
+          </li>
+          <li class="nav__item">
+            <a href="#contact" class="nav__link">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="header__text-box row">
+      <div class="header__text">
+        <h1 class="heading-primary">
+          <!-- Replace the following name with your name -->
+          <span>Syed Ali Hussnain</span>
+        </h1>
+        <!-- Put a small paragraph about yourself -->
+        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <a href="#contact" class="btn btn--pink">Get in touch</a>
+      </div>
+    </div>
+  </header>
+
+  <main role="main">
+
+    <!-- ***** Work ***** -->
+
+    <section class="work" id="work">
+      <div class="row">
+        <h2>My Work</h2>
+        <div class="work__boxes">
+
+          <!-- Each div with the work__box class is a project. -->
+
+          <div class="work__box">
+            <div class="work__text">
+              <h3>Portfolio Template</h3>
+              <p>
+                A free Open Source Portfolio for anyone to use for free.
+              </p>
+              <ul class="work__list">
+                <li>HTML</li>
+                <li>SCSS</li>
+                <li>JavaScript</li>
+                <li>Parcel</li>
+              </ul>
+
+              <div class="work__links">
+                <a href="https://nisar.surge.sh" target="_blank" class="link__text">
+                  Visit Site <span>&rarr;</span>
+                </a>
+                <a href="https://github.com/nisarhassan12/portfolio" title="View Source Code" target="_blank">
+                  <img src="./images/github.svg" class="work__code" alt="GitHub">
+                </a>
+              </div>
             </div>
-        </section>
+            <div class="work__image-box">
+              <img src="./images/project-1.png" class="work__image" alt="Project 1" />
+            </div>
+          </div>
 
-        <section id="projects">
-            <h2 class="section-heading">Projects</h2>
-            <div class="section-content">
-                <div class="left-column">
-                    <h3>Project 1</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod</p>
-                </div
+          <div class="work__box">
+            <div class="work__text">
+              <h3>Calculator</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
+                eius.
+              </p>
+              <ul class="work__list">
+                <li>React</li>
+                <li>Next.js</li>
+                <li>Node</li>
+                <li>MongoDB</li>
+              </ul>
+
+              <div class="work__links">
+                <a href="#" class="link__text">
+                  Visit Site <span>&rarr;</span>
+                </a>
+                <a href="#">
+                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+                </a>
+              </div>
+            </div>
+            <div class="work__image-box">
+              <img src="./images/project-2.png" class="work__image" alt="Project 1" />
+            </div>
+          </div>
+
+          <div class="work__box">
+            <div class="work__text">
+              <h3>Notificator</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
+                eius.
+              </p>
+              <ul class="work__list">
+                <li>React</li>
+                <li>Next.js</li>
+                <li>Node</li>
+                <li>MongoDB</li>
+              </ul>
+
+              <div class="work__links">
+                <a href="#" class="link__text">
+                  Visit Site <span>&rarr;</span>
+                </a>
+                <a href="#">
+                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+                </a>
+              </div>
+            </div>
+            <div class="work__image-box">
+              <img src="./images/project-3.png" class="work__image" alt="Project 3" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ***** Clients ***** -->
+
+    <section class="client" id="clients">
+      <div class="row">
+        <h2>Clients</h2>
+        <div class="client__logos">
+          <!-- Add logos of the clients or companies you'have worked with. -->
+          <img src="./images/ronjones.png" class="client__logo" alt="Company 2" />
+          <img src="./images/goldengrid.png" class="client__logo" alt="Company 3" />
+          <img src="./images/bullseye.png" class="client__logo" alt="Company 1" />
+          <img src="./images/mighty-furnitures.png" class="client__logo" alt="Company 1" />
+          <img src="./images/fastlane.png" class="client__logo" alt="Company 3" />
+          <img src="./images/chippy.png" class="client__logo" alt="Company 1" />
+        </div>
+      </div>
+    </section>
+
+    <!-- ***** About ***** -->
+
+    <section class="about" id="about">
+      <div class="row">
+        <h2>About Me</h2>
+        <div class="about__content">
+          <div class="about__text">
+            <!-- Replace the below paragraph with info about yourself -->
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
+              nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
+              in vel, ex quam quidem quos mollitia labore aut sunt eius
+              ratione molestiae fuga veniam facere similique voluptate.
+            </p>
+            <!-- Provide a link to your resume -->
+            <a href="#" class="btn">My Resume</a>
+          </div>
+
+          <div class="about__photo-container">
+            <!-- Add a nice photo of yourself -->
+            <img class="about__photo" src="./images/syed-ali-hussnain.jpg" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ***** Contact ***** -->
+
+  <section class="contact" id="contact">
+    <div class="row">
+      <h2>Get in Touch</h2>
+      <div class="contact__info">
+        <p>
+          Are you looking for a fast-performing and user-friendly website to
+          represent your product or business? or looking for any kind of
+          consultation? or want to ask questions? or have some advice for me
+          or just want to say "Hi 👋" in any case feel free to Let me know. I
+          will do my best to respond back. 😊 The quickest way to reach out to
+          me is via an email.
+        </p>
+        <!-- Replace the email with yours -->
+        <a href="mailto:you@example.com" class="btn">you@example.com</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ***** Footer ***** -->
+
+  <footer role="contentinfo" class="footer">
+    <div class="row">
+      <!-- Update the links to point to your accounts -->
+      <ul class="footer__social-links">
+        <li class="footer__social-link-item">
+          <a href="https://twitter.com/nisarhassan12/" title="Link to Twitter Profile">
+            <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
+          </a>
+        </li>
+        <li class="footer__social-link-item">
+          <a href="https://github.com/nisarhassan12/" title="Link to Github Profile">
+            <img src="./images/github.svg" class="footer__social-image" alt="Github">
+          </a>
+        </li>
+        <li class="footer__social-link-item">
+          <a href="https://codepen.io/nisar_hassan" title="Link to Codepen Profile">
+            <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
+          </a>
+        </li>
+        <li class="footer__social-link-item">
+          <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+            <img src="./images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
+          </a>
+        </li>
+      </ul>
+
+      <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
+      <p>
+        &copy; 2020 - Template designed & developed by <a href="https://nisar.dev" class="link">Nisar</a>.
+      </p>
+      <div class="footer__github-buttons">
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true"
+          frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
+        </iframe>
+      </div>
+    </div>
+  </footer>
+
+  <a href="#top" class="back-to-top" title="Back to Top">
+    <img src="./images/arrow-up.svg" alt="Back to Top" class="back-to-top__image"/>
+  </a>
+  <script src="./index.js"></script>
+</body>
+
+</html>
