@@ -5,7 +5,7 @@ I'm Hassan Duffaydar, a statistics and data science enthusiast from Mauritius, c
 
 ### Content
 
-Part I. Stochastic Processes
+My projects:
 
 1. [Brownian Motion](https://quantgirluk.github.io/Understanding-Quantitative-Finance/brownian_motion.html)
 2. [Brownian Motion with Drift](https://quantgirluk.github.io/Understanding-Quantitative-Finance/brownian_motion_arithmetic.html)
@@ -20,15 +20,14 @@ This project is under construction 🦺 and new content will be added on a regul
 
 ```
 
-You can visit the current version here: [Understanding Quantitative Finance Website](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
 ### Thanks for Visiting! ✨
 
 Connect with me via:
 
-- 🦜 [Twitter](https://twitter.com/Quant_Girl)
-- 👩🏽‍💼 [Linkedin](https://www.linkedin.com/in/dialidsantiago/)
-- 📸 [Instagram](https://www.instagram.com/quant_girl/)
-- 👾 [Personal Website](https://quantgirl.blog)
+- 🦜 [Twitter](https://twitter.com/)
+- 👩🏽‍💼 [Linkedin](https://www.linkedin.com/in/hassanduffaydar/)
+- 📸 [Instagram](https://www.instagram.com/hassandfy/)
+- 👾 [Personal Website](https://.blog)
 
 
 ⭐️ **If you like this projet, please give it a star** ⭐️ 
