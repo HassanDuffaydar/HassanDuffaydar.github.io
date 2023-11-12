@@ -1,246 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" type="image/png" href="./images/favicon.png" />
-
-  <!-- Put your site title here -->
-  <title>
-    Hassan Duffaydar | Statistics and Data Science.
-  </title>
-
-  <meta name="description" content="Add small description of yourslef.">
-  <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
-  <meta name="keywords" content="Hassan Duffaydar, statistics, data science, lse , mauritius, duffaydar" />
-  <link rel="stylesheet" href="index.css" />
-</head>
-  
-<div class="profile-picture">
-  <img src="images/profilepic.jpg" alt="Profile Picture">
-</div>
-<div class="image-container">
-  <img src="image/profilepic.jpg" alt="Profile Picture">
-</div>
+## [Hassan Duffaydar](https://hassanduffaydar.github.io/intro.html)
 
 
+I'm Hassan Duffaydar, a statistics and data science enthusiast from Mauritius, currently studying at the LSE. This website serves as a platform to showcase my portfolio and provide valuable resources for my students. I aim to inspire and empower others on their own adventures. Feel free to reach out!
 
-<body>
+### Content
 
-  <!-- ***** Header ***** -->
+Part I. Stochastic Processes
 
-  <header class="header" role="banner" id="top">
-    <div class="row">
-      <nav class="nav" role="navigation">
-        <ul class="nav__items">
-          <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
-          <li class="nav__item"><a href="#clients" class="nav__link">Teaching</a></li>
-          <li class="nav__item">
-            <a href="#about" class="nav__link">About</a>
-          </li>
-          <li class="nav__item">
-            <a href="#contact" class="nav__link">Contact</a>
-          </li>
-        </ul>
-      </nav>
-    </div>
-    <div class="header__text-box row">
-      <div class="header__text">
-        <h1 class="heading-primary">
-          <!-- Replace the following name with your name -->
-          <span>Hassan Duffaydar</span>
-        </h1>
-        <!-- Put a small paragraph about yourself -->
-        <p>Actuarial Science student at the London School of Economics.</p>
-        <a href="#contact" class="btn btn--pink">Get in touch</a>
-      </div>
-    </div>
-  </header>
+1. [Brownian Motion](https://quantgirluk.github.io/Understanding-Quantitative-Finance/brownian_motion.html)
+2. [Brownian Motion with Drift](https://quantgirluk.github.io/Understanding-Quantitative-Finance/brownian_motion_arithmetic.html)
+3. [Geometric Brownian Motion](https://quantgirluk.github.io/Understanding-Quantitative-Finance/geometric_brownian_motion.html)
+4. [Vasicek Model/Process](https://quantgirluk.github.io/Understanding-Quantitative-Finance/vasicek.html)
+5. [Cox–Ingersoll–Ross process](https://quantgirluk.github.io/Understanding-Quantitative-Finance/cir_process.html)
 
-  <main role="main">
 
-    <!-- ***** Work ***** -->
+```{note}
 
-    <section class="work" id="work">
-      <div class="row">
-        <h2>My Work</h2>
-        <div class="work__boxes">
+This project is under construction 🦺 and new content will be added on a regular basis 🌱 
 
-          <!-- Each div with the work__box class is a project. -->
+```
 
-          <div class="work__box">
-            <div class="work__text">
-              <h3>Portfolio Template</h3>
-              <p>
-                A free Open Source Portfolio for anyone to use for free.
-              </p>
-              <ul class="work__list">
-                <li>HTML</li>
-                <li>SCSS</li>
-                <li>JavaScript</li>
-                <li>Parcel</li>
-              </ul>
+You can visit the current version here: [Understanding Quantitative Finance Website](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
+### Thanks for Visiting! ✨
 
-              <div class="work__links">
-                <a href="" target="_blank" class="link__text">
-                  Visit Site <span>&rarr;</span>
-                </a>
-                <a href="https://github.com/hassanduffaydar" title="View Source Code" target="_blank">
-                  <img src="./images/github.svg" class="work__code" alt="GitHub">
-                </a>
-              </div>
-            </div>
-            <div class="work__image-box">
-              <img src="./images/project-1.png" class="work__image" alt="Project 1" />
-            </div>
-          </div>
+Connect with me via:
 
-          <div class="work__box">
-            <div class="work__text">
-              <h3>Calculator</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
-                eius.
-              </p>
-              <ul class="work__list">
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Node</li>
-                <li>MongoDB</li>
-              </ul>
+- 🦜 [Twitter](https://twitter.com/Quant_Girl)
+- 👩🏽‍💼 [Linkedin](https://www.linkedin.com/in/dialidsantiago/)
+- 📸 [Instagram](https://www.instagram.com/quant_girl/)
+- 👾 [Personal Website](https://quantgirl.blog)
 
-              <div class="work__links">
-                <a href="#" class="link__text">
-                  Visit Site <span>&rarr;</span>
-                </a>
-                <a href="#">
-                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
-                </a>
-              </div>
-            </div>
-            <div class="work__image-box">
-              <img src="./images/project-2.png" class="work__image" alt="Project 1" />
-            </div>
-          </div>
 
-          <div class="work__box">
-            <div class="work__text">
-              <h3>Notificator</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
-                eius.
-              </p>
-              <ul class="work__list">
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Node</li>
-                <li>MongoDB</li>
-              </ul>
-
-              <div class="work__links">
-                <a href="#" class="link__text">
-                  Visit Site <span>&rarr;</span>
-                </a>
-                <a href="#">
-                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
-                </a>
-              </div>
-            </div>
-            <div class="work__image-box">
-              <img src="./images/project-3.png" class="work__image" alt="Project 3" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ***** Teaching ***** -->
-
-    <section class="client" id="clients">
-      <div class="row">
-        <h2>Teaching</h2>
-        <div class="client__logos">
-          <!-- Add logos of the clients or companies you'have worked with. -->
-          <img src="./images/ronjones.png" class="client__logo" alt="Company 2" />
-          <img src="./images/goldengrid.png" class="client__logo" alt="Company 3" />
-          <img src="./images/bullseye.png" class="client__logo" alt="Company 1" />
-          <img src="./images/mighty-furnitures.png" class="client__logo" alt="Company 1" />
-          <img src="./images/fastlane.png" class="client__logo" alt="Company 3" />
-          <img src="./images/chippy.png" class="client__logo" alt="Company 1" />
-        </div>
-      </div>
-    </section>
-
-    <!-- ***** About ***** -->
-
-    <section class="about" id="about">
-      <div class="row">
-        <h2>About Me</h2>
-        <div class="about__content">
-          <div class="about__text">
-            <!-- Replace the below paragraph with info about yourself -->
-            <p>
-             I'm Hassan Duffaydar, a statistics and data science enthusiast from Mauritius, currently studying at the LSE. This website serves as a platform to showcase my portfolio and provide valuable resources for my students. I aim to inspire and empower others on their own adventures. Feel free to reach out!
-            </p>
-            <!-- Provide a link to your resume -->
-            <a href="#" class="btn">My Resume</a>
-          </div>
-
-          <div class="about__photo-container">
-            <!-- Add a nice photo of yourself -->
-            <img class="about__photo" src="./images/syed-ali-hussnain.jpg" alt="" />
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <!-- ***** Contact ***** -->
-
-  <section class="contact" id="contact">
-    <div class="row">
-      <h2>Get in Touch</h2>
-      <div class="contact__info">
-        <p>
-          The quickest way to reach out to
-          me is via an email.
-        </p>
-        <!-- Replace the email with yours -->
-        <a href="mailto:duffay14@gmail.com" class="btn">duffay14@gmail.com</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ***** Footer ***** -->
-
-  <footer role="contentinfo" class="footer">
-    <div class="row">
-      <!-- Update the links to point to your accounts -->
-      <ul class="footer__social-links">
-        <li class="footer__social-link-item">
-          <a href="https://twitter.com/nisarhassan12/" title="Link to Twitter Profile">
-            <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
-          </a>
-        </li>
-        <li class="footer__social-link-item">
-          <a href="https://github.com/HassanDuffaydar/" title="Link to Github Profile">
-            <img src="./images/github.svg" class="footer__social-image" alt="Github">
-          </a>
-        </li>
-        <li class="footer__social-link-item">
-          <a href=https://https://www.linkedin.com/in/hassan-duffaydar/">
-            <img src="./images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
-          </a>
-        </li>
-      </ul>
-    </div>
-  </footer>
-
-  <a href="#top" class="back-to-top" title="Back to Top">
-    <img src="./images/arrow-up.svg" alt="Back to Top" class="back-to-top__image"/>
-  </a>
-  <script src="./index.js"></script>
-</body>
-
-</html>
+⭐️ **If you like this projet, please give it a star** ⭐️ 
