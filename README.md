@@ -30,4 +30,15 @@ Connect with me via:
 - 👾 [Personal Website](https://.blog)
 
 
+<button onclick="changeImage()">Change Image</button>
+
+
+
+<img id="galleryImage" src="https://via.placeholder.com/150" alt="Gallery Image" width="150" height="150">
+
+<script> const imageUrls = [ "https://via.placeholder.com/150", "https://via.placeholder.com/150/FF0000", "https://via.placeholder.com/150/00FF00", "https://via.placeholder.com/150/0000FF" ]; let currentImageIndex = 0; function changeImage() { currentImageIndex = (currentImageIndex + 1) % imageUrls.length; document.getElementById('galleryImage').src = imageUrls[currentImageIndex]; } </script>
+
+
+
+
 ⭐️ **If you like this projet, please give it a star** ⭐️ 
